@@ -1,0 +1,4 @@
+ccxt
+pandas
+pandas-ta
+pyTelegramBotAPI
